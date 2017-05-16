@@ -1,0 +1,8 @@
+--- !ruby/object:Hangman::Game
+dictionary: 
+player: !ruby/object:Hangman::Player
+  name: wwww
+secret_word: REPENTANTLY
+revealed_word: ___________
+turns_remaining: 11
+previous_guesses: []
